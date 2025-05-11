@@ -23,7 +23,7 @@ Ex2::Ex2()
     secNum = 0;
 }
 
-double Ex2::InputFirstNum()
+double Ex2::InputFirstNum() // Ask user to enter first number
 {
     cout << "Enter first num:" << endl;
     cin >> firstNum;
